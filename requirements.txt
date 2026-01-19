@@ -3,3 +3,6 @@ pandas
 plotly
 streamlit-gsheets-connection
 gspread
+git init
+git add .
+git commit -m "Mi proyecto médico v1"
